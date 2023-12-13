@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 450px;
+  background-color: palevioletred;
+  height: 500px;
+  width: 500px;
+ 
+}
+
+input {
+  margin-right: 20px;
+  padding: 10px;
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+li {
+  margin-top: 10px;
+}
